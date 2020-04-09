@@ -115,7 +115,7 @@ font-weight: bold;
 	position: relative;
 	margin: 0 auto;
 	top: -50px;
-	left: 150px;
+	left: 20px;
 }
 
 .language-bar
@@ -125,7 +125,7 @@ font-weight: bold;
 	position: relative;
 	margin: 0 auto;
 	top: -40px;
-	left: 150px;
+	left: 20px;
 }
 
 .icon-google
@@ -139,17 +139,7 @@ font-size: 18px;
 border-radius: 10%;
 font-family: Arial;
 }
-.cookies-right
-{
-position: relative;
-margin: 0 auto;
-top: 0px;
-left: 1300px;
-padding: 8px;
-font-size: 18px;
-border-radius: 10%;
-font-family: Arial;
-}
+
 
 .prefooter {
   width: 100%;
